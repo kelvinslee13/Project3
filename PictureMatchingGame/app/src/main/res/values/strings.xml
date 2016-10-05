@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PictureMatchingGame</string>
+    <string name="playAgain">Play Again</string>
+</resources>
